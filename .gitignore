@@ -1,3 +1,4 @@
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -30,4 +31,23 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
+=======
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+>>>>>>> d51894f26e5a5837c3f40e8ab68e3811b21874bd
 .vscode/
